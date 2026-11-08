@@ -1,8 +1,8 @@
-:HL["/_next/static/chunks/3ia84lfudq6t-.css","style"]
+:HL["/_next/static/chunks/33bj5xpic9nzz.css","style"]
 :HL["/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/ba63f6a0e436df8e-s.p.3-6t-g6q0vh0a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/screens/fr/generate.webp","image",{"imageSizes":"(min-width: 1024px) 240px, 45vw","fetchPriority":"high"}]
 :HL["/screens/fr/today.webp","image",{"imageSizes":"(min-width: 1024px) 280px, 55vw","fetchPriority":"high"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":{"n":"locale","t":"d","k":"fr","s":["about","delete-account","health-data","pricing","privacy","support","terms"]},"h":65648,"c":"$Q2"}]]
-0:{"b":"LNbT5SnBDisDhv3xgGiWV","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"1fOG3j5nA89cxtn2ZJrwz","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
