@@ -1,4 +1,5 @@
 User-Agent: *
 Allow: /
+Disallow: /email-templates/
 
 Sitemap: https://kaizado.com/sitemap.xml
