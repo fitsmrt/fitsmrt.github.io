@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <!-- Kaizado app icon: a K whose upper arm is an arrow up and to the right (kaizen: improve every session).
+       Brand green #00E676 background, near-black #0B0F0D mark. Stores apply their own corner mask. -->
+  <rect width="1024" height="1024" fill="#00E676"/>
+  <g fill="#0B0F0D">
+    <rect x="228" y="270" width="124" height="484" rx="10"/>
+    <polygon points="352,466 490.16,328.16 577.84,415.84 352,642"/>
+    <polygon points="440.66,278.66 640.07,265.93 627.34,465.34"/>
+    <polygon points="436,554 524,466 812,754 636,754"/>
+  </g>
+</svg>

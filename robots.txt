@@ -1,9 +1,4 @@
-# *
-User-agent: *
+User-Agent: *
 Allow: /
 
-# Host
-Host: https://fitsmrt.github.io
-
-# Sitemaps
-Sitemap: https://fitsmrt.github.io/sitemap.xml
+Sitemap: https://kaizado.com/sitemap.xml
