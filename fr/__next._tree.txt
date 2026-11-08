@@ -5,4 +5,4 @@
 :HL["/screens/fr/today.webp","image",{"imageSizes":"(min-width: 1024px) 280px, 55vw","fetchPriority":"high"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":{"n":"locale","t":"d","k":"fr","s":["about","delete-account","health-data","pricing","privacy","support","terms"]},"h":65648,"c":"$Q2"}]]
-0:{"b":"Wajk0OyBk_e3lr_vHgen4","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"o0uZt_n776w-obYtsMUBH","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
