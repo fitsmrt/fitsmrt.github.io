@@ -1,5 +1,5 @@
 2:"$Sreact.fragment"
-3:"/_next/static/chunks/3b1ey_d9m_ffk.js"
+3:"/_next/static/chunks/2vj_hi3k-dic3.js"
 4:I[39756,["$3"],"default"]
 5:I[37457,["$3"],"default"]
 a:I[97367,["$3"],"OutletBoundary"]
@@ -14,7 +14,7 @@ f:I[97367,["$3"],"$e"]
 8:X
 9:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[null,null,["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]]}],"p":"$@d","v":null,"s":"$8"}}]]
 1:[["children",{"s":"/_not-found","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
-0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$Lf",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L11",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Page not found · Kaizado"}],["$","link","1",{"rel":"manifest","href":"/manifest.webmanifest"}],["$","meta","2",{"name":"robots","content":"noindex"}],["$","link","3",{"rel":"icon","href":"/favicon.ico?favicon.01x625f0lb7ri.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","4",{"rel":"icon","href":"/icon.png?icon.0gw3_7y1a7q59.png","sizes":"512x512","type":"image/png"}],["$","link","5",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.2h87s1r2fj9qc.png","sizes":"180x180","type":"image/png"}],["$","$L12","6",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@13","v":null,"s":"$8"}},"a":"$@14","u":"$@15","b":"e9Wsd-Sbbq0miPgFawi2t"}
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$Lf",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L11",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Page not found · Kaizado"}],["$","link","1",{"rel":"manifest","href":"/manifest.webmanifest"}],["$","meta","2",{"name":"robots","content":"noindex"}],["$","link","3",{"rel":"icon","href":"/favicon.ico?favicon.01x625f0lb7ri.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","4",{"rel":"icon","href":"/icon.png?icon.0gw3_7y1a7q59.png","sizes":"512x512","type":"image/png"}],["$","link","5",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.2h87s1r2fj9qc.png","sizes":"180x180","type":"image/png"}],["$","$L12","6",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@13","v":null,"s":"$8"}},"a":"$@14","u":"$@15","b":"7L8cptJLZUuMATkQtsC6Y"}
 c:null
 15:true
 8:300
