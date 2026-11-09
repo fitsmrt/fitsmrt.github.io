@@ -6,4 +6,4 @@
 :HL["/screens/ja/watch-set.webp","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":{"n":"locale","t":"d","k":"ja","s":["about","delete-account","health-data","pricing","privacy","support","terms"]},"h":65648,"c":"$Q2"}]]
-0:{"b":"j8dXPrGP__y0HFqczsj0e","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"BCEp1ah7gK4W9P7Y0nZw5","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
