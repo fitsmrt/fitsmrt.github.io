@@ -1,0 +1,8 @@
+:HL["/_next/static/chunks/3hzcr5u0cdgu9.css","style"]
+:HL["/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ba63f6a0e436df8e-s.p.3-6t-g6q0vh0a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+4:[["children",{"s":"__PAGE__","h":160}]]
+3:[["children",{"s":"one-rep-max-calculator","h":96,"c":"$Q4"}]]
+2:[["children",{"s":"tools","h":96,"c":"$Q3"}]]
+1:[["children",{"s":{"n":"locale","t":"d","k":"tr","s":["about","compare","delete-account","guides","health-data","pricing","privacy","support","terms","tools"]},"h":65648,"c":"$Q2"}]]
+0:{"b":"2piOYYHVYDrqHZrmmYCX3","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

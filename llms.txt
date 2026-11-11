@@ -1,0 +1,36 @@
+# Kaizado
+
+> Kaizado is an AI personal trainer app for strength training. It plans every workout around your goal, schedule, equipment and muscle recovery, adjusts the weights after every set, and includes an AI coach chat and nutrition tracking. Free to start; Premium adds AI-planned workouts, adaptive weights and nutrition targets. Available on Android and Wear OS (Google Play, package com.fitsmrt.android); iPhone coming soon. 12 languages. Made by an independent developer in Finland.
+
+## App
+- [Home and features](https://kaizado.com/): what Kaizado does, how it works, FAQ
+- [Free vs Premium](https://kaizado.com/pricing/): what each plan includes; 14-day free trial on the yearly plan
+- [About](https://kaizado.com/about/): who builds Kaizado
+- [Support](https://kaizado.com/support/): help and contact (contact@kaizado.com)
+
+## Free tools
+- [One rep max calculator](https://kaizado.com/tools/one-rep-max-calculator/): estimate 1RM (Epley/Brzycki average), rep maxes and training percentages
+- [Plate calculator](https://kaizado.com/tools/plate-calculator/): plates per side for any barbell weight, kg or lb
+- [Calorie and macro calculator](https://kaizado.com/tools/calorie-calculator/): TDEE (Mifflin-St Jeor) and protein/carb/fat targets
+
+## Guides
+- [Beginner gym workout plan](https://kaizado.com/guides/beginner-gym-workout-plan/)
+- [Full body workout](https://kaizado.com/guides/full-body-workout/)
+- [Upper lower split](https://kaizado.com/guides/upper-lower-split/)
+- [Push pull legs](https://kaizado.com/guides/push-pull-legs/)
+- [5x5 workout](https://kaizado.com/guides/5x5-workout/)
+- [Progressive overload](https://kaizado.com/guides/progressive-overload/)
+- [How many sets per muscle per week](https://kaizado.com/guides/how-many-sets-per-muscle/)
+- [RPE and RIR explained](https://kaizado.com/guides/rpe-and-rir/)
+- [Deload week](https://kaizado.com/guides/deload-week/)
+- [How to warm up for lifting](https://kaizado.com/guides/how-to-warm-up-for-lifting/)
+
+## Comparisons
+- [Kaizado vs Hevy](https://kaizado.com/compare/kaizado-vs-hevy/)
+- [Kaizado vs Fitbod](https://kaizado.com/compare/kaizado-vs-fitbod/)
+- [Kaizado vs Strong](https://kaizado.com/compare/kaizado-vs-strong/)
+
+## Legal
+- [Privacy policy](https://kaizado.com/privacy/)
+- [Terms of service](https://kaizado.com/terms/)
+- [Consumer health data](https://kaizado.com/health-data/)
