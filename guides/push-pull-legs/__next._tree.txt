@@ -1,8 +1,8 @@
-:HL["/_next/static/chunks/3hzcr5u0cdgu9.css","style"]
+:HL["/_next/static/chunks/0p30sqqh89wdt.css","style"]
 :HL["/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/ba63f6a0e436df8e-s.p.3-6t-g6q0vh0a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 4:[["children",{"s":"__PAGE__","h":160}]]
 3:[["children",{"s":{"n":"slug","t":"d","k":"push-pull-legs","s":[]},"h":65632,"c":"$Q4"}]]
 2:[["children",{"s":"guides","h":131168,"c":"$Q3"}]]
 1:[["children",{"s":"(en)","h":131184,"c":"$Q2"}]]
-0:{"b":"2piOYYHVYDrqHZrmmYCX3","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"cGT70i9_5SMwZsBWNAMBC","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
